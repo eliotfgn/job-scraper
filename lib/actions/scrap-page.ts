@@ -4,6 +4,7 @@ import { scrapeCadreAnnonces } from "../services/cadreannonces-scrapper";
 import { scrapeBjEmploi } from "../services/bjemploi-scrapper";
 import { scrapeEmploiBenin } from "../services/emploibenin-scrapper";
 import { scrapeNovojob } from "../services/novojob-scrapper";
+import { scrapeWiijob } from "../services/wiijob-scrapper";
 
 export async function scrapPage(website: string, url: string) {
   if (website === "cadreannonces.com") {
@@ -21,6 +22,10 @@ export async function scrapPage(website: string, url: string) {
     return jobs;
   } else if (website === "novojob.com") {
     const jobs = await scrapeNovojob(url);
+    console.log(jobs);
+    return jobs;
+  } else if (website === "wiijob.com") {
+    const jobs = await scrapeWiijob(url);
     console.log(jobs);
     return jobs;
   }
