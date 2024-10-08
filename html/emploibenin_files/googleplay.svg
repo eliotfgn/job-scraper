@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="127.317" height="36.903" viewBox="0 0 127.317 36.903" wtx-context="735296ED-5A4D-4679-B06D-84C7EBA031F5">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="127.317" height="36.903" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_11" data-name="Groupe 11" transform="translate(0 0)">
+    <g id="Groupe_10" data-name="Groupe 10" transform="translate(0 0)">
+      <g id="Groupe_9" data-name="Groupe 9" clip-path="url(#clip-path)">
+        <path id="Tracé_58" data-name="Tracé 58" d="M119.668,36.9H7.648A7.647,7.647,0,0,1,0,29.255V7.648A7.647,7.647,0,0,1,7.648,0H119.668a7.647,7.647,0,0,1,7.648,7.648V29.255a7.647,7.647,0,0,1-7.648,7.648" transform="translate(0 0)" fill="#161615"/>
+        <path id="Tracé_59" data-name="Tracé 59" d="M10.485,8.2a.731.731,0,0,0-.086.338v22.37a.739.739,0,0,0,.376.647L22.34,20.729Z" transform="translate(-1.115 -0.88)" fill="#0090bd"/>
+        <path id="Tracé_60" data-name="Tracé 60" d="M26.776,16.607,11.606,7.848a.734.734,0,0,0-.393-.1L22.971,20.171Z" transform="translate(-1.202 -0.831)" fill="#369a3b"/>
+        <path id="Tracé_61" data-name="Tracé 61" d="M32.453,20.144l-3.528-2.037-3.967,3.716,2.411,2.549,5.083-2.935a.746.746,0,0,0,0-1.292" transform="translate(-2.676 -1.942)" fill="#ffe400"/>
+        <path id="Tracé_62" data-name="Tracé 62" d="M12.671,32.6l12.718-7.342L23.1,22.84Z" transform="translate(-1.359 -2.449)" fill="#dc0f1c"/>
+      </g>
+    </g>
+    <text id="GOOGLE_PLAY" data-name="GOOGLE PLAY" transform="translate(33.716 22.151)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">GOOGLE PL</tspan><tspan y="0" letter-spacing="-0.074em">A</tspan><tspan y="0">Y</tspan></text>
+  </g>
+</svg>

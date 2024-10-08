@@ -1,0 +1,71 @@
+section.filter-pan .filter-gr-content {
+	position: relative;
+	background-color: #f7f7f7;
+	padding: 20px 30px 30px;
+}
+.filter-pan header .title {
+	font-size: 22px;
+	font-weight: 300;
+}
+.filter-pan header .delete:hover {
+	color: #656d78 !important;
+}
+section.filter-pan .filter-gr-content li {
+	border: none;
+	font-size: 11px;
+}
+.filter-gr-content .counter {
+	margin-right: 22px;
+	float: right;
+}
+.filter-gr .filter-gr-header {
+	cursor: pointer;
+	display: block;
+}
+*[tabindex] {
+	outline: 0;
+}
+section.filter-pan .filter-gr-content .inner.fixed-height {
+	height: 210px;
+	overflow: hidden;
+}
+ul.filters-style > li > h4 {
+	padding: 0px 0px 10px 0px;
+	line-height: 20px;
+	font-size: 13px;
+	font-weight: 600;
+}
+ul.filters-style > li > h4 > a > i {
+	margin-right: 10px;
+    margin-top: 5px;
+	font-size: 13px;
+}
+ul.filters-style > li .marker {
+	font-weight: 600;
+	font-size: 11px;
+	height: 20px;
+	text-align: center;
+	padding: 0 5px;
+}
+.filter-pan li[role=menuitemcheckbox] {
+	padding-left: 1px;
+}
+.filter-pan li[role=menuitemcheckbox] label {
+	cursor: pointer !important;
+	font-size: 13px;
+}
+
+.filter-pan li[role=menuitemcheckbox] label:hover {
+	color: #434A54;
+	/*font-weight: bold;*/
+}
+
+.filter-pan li[role=menuitemcheckbox][aria-checked=true] label {
+	color: #009fe3;
+}
+.filter-pan .hover-white:hover {
+	color: #cccccc !important;
+}
+.filter-pan.disabled * {
+	cursor: not-allowed !important;
+}
